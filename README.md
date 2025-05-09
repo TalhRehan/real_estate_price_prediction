@@ -11,4 +11,4 @@ Three different regression algorithms are employed for the prediction task:
 
 By comparing the performance of these three models, the project aims to determine the most suitable algorithm for predicting real estate prices. The dataset likely includes various features such as property size, location, number of bedrooms, amenities, and more.
 
-Throughout the project, data preprocessing, feature engineering, model training, evaluation, and visualization will be performed using the mentioned Python libraries. The results will be analyzed to provide insights into the factors influencing real estate prices and to facilitate better decision-making for buyers, sellers, and investors in the real estate market..
+Throughout the project, data preprocessing, feature engineering, model training, evaluation, and visualization will be performed using the mentioned Python libraries. The results will be analyzed to provide insights into the factors influencing real estate prices and to facilitate better decision-making for buyers, sellers, and investors in the real estate market.
